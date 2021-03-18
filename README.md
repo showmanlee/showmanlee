@@ -12,3 +12,5 @@
  * 내 방식이 언제나 옳은 것은 아니다 - ***Hipster*가 되지 말고 *Geek*이 되어라**
 
 아, 모르겠고... **일단 하고나서 생각해봅시다.**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshowmanlee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
